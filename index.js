@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+const { createNewLogo } = require('./lib/renderer');
 
 const PROMPTS = [
     {
@@ -55,5 +56,5 @@ function validateColor(value) {
 
 inquirer.prompt(PROMPTS)
     .then(response => {
-        console.log(response);
+        createNewLogo(response);
     });
