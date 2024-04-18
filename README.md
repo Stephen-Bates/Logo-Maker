@@ -32,7 +32,7 @@ After downloading, users can run the script by navigating to the project in they
 
 
 [![demo](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view
-)]
+)](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view?usp=drive_link "demo")
 
 ## License
 
