@@ -50,7 +50,7 @@ function validateColor(value) {
             'navy', 'blue', 'teal', 'aqua'];
 
         // If color entered exists in the list, or if a hex value was entered, resolve promise. Otherwise reject promise with error message
-        (colors.includes(value)) ? resolve(true) : RegExp('^#[a-fA-F\d]{6}$').test(value) ? resolve(true) : reject('Color must be basic color name or a hex value');
+        (colors.includes(value)) ? resolve(true) : RegExp('^#[a-fA-F\\d]{6}$').test(value) ? resolve(true) : reject('Color must be basic color name or a hex value');
     })
 };
 
