@@ -31,8 +31,7 @@ Download the project files and extract the contents into whatever directory you 
 After downloading, users can run the script by navigating to the project in they cli of their choosing and running 'npm i' to install the dependancies, then run 'node .' to execute the script
 
 
-[![demo](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view
-)](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view?usp=drive_link "demo")
+![demo](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view)](https://drive.google.com/file/d/1jXwS_282Wj2Okwjl-DKOieLOKGQA3xta/view?usp=drive_link "demo")
 
 ## License
 
